@@ -2,6 +2,8 @@
 
 Package **chainname** provides **chain-names** for different blockchain-networks, for the Go programming language.
 
+The data for the **chain-names** comes from https://chainid.network/
+
 ## Documention
 
 Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-chainname
