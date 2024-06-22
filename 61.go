@@ -1,4 +1,4 @@
-package chaincname
+package chainname
 
 import (
 	"github.com/reiver/go-chainid"
