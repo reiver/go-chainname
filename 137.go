@@ -4,7 +4,7 @@ import (
 	"github.com/reiver/go-chainid"
 )
 
-const PolygonMainnet = "polygon-mainnet"
+const PolygonMainnet = "Polygon Mainnet"
 
 func init() {
 	const value string =                   PolygonMainnet
